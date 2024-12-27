@@ -18,10 +18,6 @@ Assets/StreamingAssets/aa.meta
 *.booproj
 *.svd
 
-# Unity WebGL specific files
-Build/
-Builds/
-
 # Unity cache
 **/[Cc]ache/
 *.stacktrace
